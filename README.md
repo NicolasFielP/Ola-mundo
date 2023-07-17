@@ -1,2 +1,2 @@
-# Ola-mundo
- criado para o curso de Gir e GitHub do Cursoemvideo
+# Olá, mundo!
+ Criado para o curso de Git e GitHub do Cursoemvideo
