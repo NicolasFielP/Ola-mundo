@@ -1,4 +1,8 @@
 # Olá, mundo!
  Criado para o curso de Git e GitHub do Cursoemvideo
 
-Interessante essa coisa de alterar arquivo 
+Este repositório foi feito para **teste e estudo**
+
+e esse é um teste de `markdown` também
+
+## Adeus ;)
